@@ -1,5 +1,5 @@
 Project Overview
-This SQL project analyzes retail marketing performance metrics to evaluate campaign effectiveness, return on marketing investment (ROMI), and conversion rates across different dimensions.
+This SQL project analyzes retail marketing performance metrics to evaluate social media campaign effectiveness, return on marketing investment (ROMI), and conversion rates across different dimensions.
 
 Database Structure
 The analysis is performed on a Marketing_kpi table which appears to contain the following fields:
